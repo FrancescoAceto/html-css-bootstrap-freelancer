@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: #252d37;
+    color: white;
+    padding: 20%;
+}
+
+.container-fluid{
+    background-color: #1abc9c;
+    color: white;
+}
+
+.avatar-container{
+    max-width: 200px;
+    margin: auto;
+}
+
+.divider{
+    width: 10%;
+}
+
+.btn-primary{
+    background-color: #1abc9c;
+    border: none;
+}
+
+.my-footer{
+    background-color: #364a5f;
+}
+
+.my-footer2{
+    background-color: #242e37;
+}
